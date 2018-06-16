@@ -17,7 +17,6 @@ namespace GuiFrameWork
         
         #endregion
 
-
         #region Ctor
         public MapModel()
         {
