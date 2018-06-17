@@ -42,3 +42,5 @@ C:\Users\harno\OneDrive\Documents\Visual Studio 2017\Projects\HomeProject\myLoca
 C:\Users\harno\OneDrive\Documents\Visual Studio 2017\Projects\HomeProject\myLocationOnMap\GuiFrameWork\bin\Debug\GMap.NET.WindowsForms.dll
 C:\Users\harno\OneDrive\Documents\Visual Studio 2017\Projects\HomeProject\myLocationOnMap\GuiFrameWork\bin\Debug\GMap.NET.WindowsPresentation.dll
 C:\Users\harno\OneDrive\Documents\Visual Studio 2017\Projects\HomeProject\myLocationOnMap\GuiFrameWork\obj\Debug\GuiFrameWork.Properties.Resources.resources
+C:\myLocationOnMap\MyLocationOnMap_2\myLocationOnMap\GuiFrameWork\bin\Debug\GuiFrameWork.dll
+C:\myLocationOnMap\MyLocationOnMap_2\myLocationOnMap\GuiFrameWork\obj\Debug\GuiFrameWork.dll
